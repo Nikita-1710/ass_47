@@ -1,5 +1,4 @@
-[
-    {
+const STUDENTS = [{
         name: "Aarav Sharma",
         city: "Mumbai",
         marks: 450,
@@ -208,4 +207,6 @@
         marks: 395,
         percentage: 79
     }
-]
+];
+
+export { STUDENTS };
